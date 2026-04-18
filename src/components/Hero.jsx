@@ -48,7 +48,7 @@ export default function Hero() {
         {[...Array(5)].map((_, i) => (
           <Star key={i} size={20} fill="var(--yellow)" color="var(--yellow)" />
         ))}
-        <span style={{ color: 'var(--yellow-light)', fontSize: 14, marginLeft: 8, fontWeight: 700 }}>Indang's Favorite Kinalas</span>
+        <span style={{ color: 'var(--yellow-light)', fontSize: 14, marginLeft: 8, fontWeight: 700 }}>Pili's Favorite Kinalas</span>
       </div>
 
       {/* Badge */}
@@ -123,7 +123,7 @@ export default function Hero() {
         animationDelay: '0.6s',
         padding: '0 20px',
       }}>
-        Warm bowls, rich broths, and the taste of home — crafted with love for every hungry soul in Indang, Cavite.
+        Warm bowls, rich broths, and the taste of home — crafted with love for every hungry soul in Pili, Camarines Sur.
       </p>
 
       {/* CTAs */}
@@ -187,7 +187,7 @@ export default function Hero() {
         <div style={{ width: 10, height: 10, borderRadius: '50%', background: '#4ade80', position: 'relative' }}>
           <div style={{ position: 'absolute', inset: 0, borderRadius: '50%', background: '#4ade80', animation: 'pulse-ring 1.5s ease infinite' }} />
         </div>
-        <span style={{ color: '#a7f3c0', fontSize: 14, fontWeight: 700 }}>Open Daily · 6:00 AM – 8:00 PM</span>
+        <span style={{ color: '#a7f3c0', fontSize: 14, fontWeight: 700 }}>Open Monday - Saturday · 8:00 AM – 8:00 PM</span>
       </div>
 
       {/* Scroll arrow */}

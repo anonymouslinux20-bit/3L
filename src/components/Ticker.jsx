@@ -2,8 +2,8 @@ export default function Ticker() {
   const items = [
     '🍜 Try our Famous Kinalas!',
     '🌿 Fresh ingredients daily',
-    '🥘 New: Bulalo Special available every weekend',
-    '🎉 Birthday packages available — call us to book!',
+    '🥘 New: Paksiw Halo & Paksiw Laman',
+    '🎉 Traditional Lutong-Bahay Dishes',
     '🍚 Sinangag now served for breakfast',
     '🌶️ Try our spicy Bicol Express!',
     '🐔 Fried Chicken now available all day',

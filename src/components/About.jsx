@@ -18,7 +18,7 @@ export default function About() {
             3L's Kinalas & Eatery was born from a passion for authentic Filipino home cooking. Nestled in the heart of Indang, Cavite, our small eatery has been serving warm bowls of kinalas and classic Filipino dishes since 2015.
           </p>
           <p style={{ fontSize: 16, color: 'rgba(253,230,175,0.75)', lineHeight: 1.8, marginBottom: 30, fontFamily: "'Lora', serif" }}>
-            Every dish is made with fresh, locally-sourced ingredients, slow-cooked recipes passed down through generations, and most importantly — made with love. The "3L's" in our name stands for <em style={{ color: 'var(--yellow)' }}>Luto, Lasa, at Ligaya</em> — Cooking, Flavor, and Joy.
+            Every dish is made with fresh, locally-sourced ingredients, slow-cooked recipes passed down through generations, and most importantly — made with love. The "3L's" in our name stands for <em style={{ color: 'var(--yellow)' }}>Liza, Liway, at Luis</em> — Cooking, Flavor, and Joy.
           </p>
 
           <div style={{ display: 'flex', gap: 20, flexWrap: 'wrap' }}>
@@ -54,9 +54,9 @@ export default function About() {
           {/* Three values */}
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 12 }}>
             {[
-              { emoji: '🧑‍🍳', label: 'Luto', sub: 'Crafted' },
-              { emoji: '😋', label: 'Lasa', sub: 'Flavorful' },
-              { emoji: '😊', label: 'Ligaya', sub: 'Joyful' },
+              { emoji: '🧑‍🍳', label: 'Liza', sub: 'Pedimonte' },
+              { emoji: '😋', label: 'Liway', sub: 'Dino' },
+              { emoji: '😊', label: 'Luis', sub: 'Pedimonte' },
             ].map((v, i) => (
               <div key={i} style={{
                 background: 'rgba(255,255,255,0.06)',

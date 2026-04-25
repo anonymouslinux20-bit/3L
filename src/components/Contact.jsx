@@ -24,9 +24,9 @@ export default function Contact() {
               </div>
               <h3 style={{ color: 'var(--yellow)', fontSize: 20, marginBottom: 10 }}>Location</h3>
               <p style={{ color: 'rgba(255,255,255,0.8)', fontSize: 15, lineHeight: 1.7 }}>
-                Poblacion 1, Indang<br />Cavite, Philippines
+                Zone 3 San Agustin, Pili<br />Camarines Sur, Philippines
               </p>
-              <a href="https://maps.google.com" target="_blank" rel="noreferrer" style={{
+              <a href="https://maps.app.goo.gl/C9d2NS7ThSNUpuBRA" target="_blank" rel="noreferrer" style={{
                 display: 'inline-block',
                 marginTop: 14,
                 color: 'var(--yellow)',
@@ -46,9 +46,7 @@ export default function Contact() {
               <h3 style={{ color: 'var(--yellow)', fontSize: 20, marginBottom: 14 }}>Hours</h3>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                 {[
-                  ['Mon – Fri', '6:00 AM – 8:00 PM'],
-                  ['Saturday', '6:00 AM – 9:00 PM'],
-                  ['Sunday', '6:00 AM – 7:00 PM'],
+                  ['Mon – Sat', '8:00 AM – 8:00 PM'],
                   ['Holidays', 'See Announcements'],
                 ].map(([day, time]) => (
                   <div key={day} style={{ display: 'flex', justifyContent: 'space-between', gap: 12 }}>
@@ -67,7 +65,7 @@ export default function Contact() {
               <h3 style={{ color: 'var(--yellow)', fontSize: 20, marginBottom: 14 }}>Get in Touch</h3>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
                 <a href="tel:+639001234567" style={{ display: 'flex', alignItems: 'center', gap: 10, color: 'rgba(255,255,255,0.85)', textDecoration: 'none', fontSize: 15 }}>
-                  <Phone size={16} color="var(--yellow)" /> 0900-123-4567
+                  <Phone size={16} color="var(--yellow)" /> +639 3944 44830
                 </a>
                 <a href="#" style={{ display: 'flex', alignItems: 'center', gap: 10, color: 'rgba(255,255,255,0.85)', textDecoration: 'none', fontSize: 15 }}>
                   <Share2 size={16} color="var(--yellow)" /> 3Ls Kinalas & Eatery
@@ -93,10 +91,10 @@ export default function Contact() {
               Dine in or pre-order for pickup. Message us on Facebook or call ahead!
             </p>
             <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
-              <a href="tel:+639001234567" style={{ background: 'var(--brown)', color: 'white', textDecoration: 'none', padding: '14px 30px', borderRadius: 50, fontWeight: 800, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
+              <a href="tel:+639394444830" style={{ background: 'var(--brown)', color: 'white', textDecoration: 'none', padding: '14px 30px', borderRadius: 50, fontWeight: 800, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
                 📞 Call to Order
               </a>
-              <a href="#" style={{ background: 'var(--terracotta)', color: 'white', textDecoration: 'none', padding: '14px 30px', borderRadius: 50, fontWeight: 800, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
+                          <a href="https://www.facebook.com/profile.php?id=61572345495951" style={{ background: 'var(--terracotta)', color: 'white', textDecoration: 'none', padding: '14px 30px', borderRadius: 50, fontWeight: 800, fontSize: 15, display: 'inline-flex', alignItems: 'center', gap: 8 }}>
                 💬 Message on Facebook
               </a>
             </div>
@@ -108,9 +106,9 @@ export default function Contact() {
       <footer style={{ background: 'var(--brown)', padding: '28px 24px', textAlign: 'center', borderTop: '3px solid var(--yellow)' }}>
         <div style={{ maxWidth: 800, margin: '0 auto' }}>
           <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 22, fontWeight: 900, color: 'var(--yellow)', marginBottom: 4 }}>3L's Kinalas & Eatery</div>
-          <div style={{ fontSize: 12, color: 'rgba(253,230,175,0.5)', letterSpacing: 2, textTransform: 'uppercase', marginBottom: 16 }}>Luto · Lasa · Ligaya</div>
+          <div style={{ fontSize: 12, color: 'rgba(253,230,175,0.5)', letterSpacing: 2, textTransform: 'uppercase', marginBottom: 16 }}>Liza · Liway · Luis</div>
           <p style={{ color: 'rgba(253,230,175,0.4)', fontSize: 13 }}>
-            © {new Date().getFullYear()} 3L's Kinalas & Eatery. All rights reserved. · Indang, Cavite, Philippines
+            © {new Date().getFullYear()} 3L's Kinalas & Eatery. All rights reserved. · Pili, Camarines Sur, Philippines
           </p>
         </div>
       </footer>

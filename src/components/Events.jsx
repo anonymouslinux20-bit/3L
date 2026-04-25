@@ -160,7 +160,7 @@ export default function Events() {
           <div style={{ fontSize: 24, marginBottom: 8 }}>📱</div>
           <div style={{ fontWeight: 800, fontSize: 16, marginBottom: 4 }}>Stay Connected!</div>
           <p style={{ fontSize: 14, opacity: 0.85 }}>Follow us on Facebook for real-time updates on closures, new dishes, and promos.</p>
-          <a href="https://facebook.com" target="_blank" rel="noreferrer" style={{
+                  <a href="https://www.facebook.com/profile.php?id=61572345495951" target="_blank" rel="noreferrer" style={{
             display: 'inline-block',
             marginTop: 14,
             background: 'var(--yellow)',

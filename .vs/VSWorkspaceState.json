@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components"
   ],
+  "SelectedNode": "\\src\\components\\Contact.jsx",
   "PreviewInSolutionExplorer": false
 }

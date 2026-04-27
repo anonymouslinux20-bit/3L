@@ -1,7 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\FeaturedPromo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\FeaturedPromo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Events.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Events.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\hero.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\hero.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\public\\favicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\favicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +90,270 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Contact.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Contact.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Contact.jsx",
+              "RelativeToolTip": "src\\components\\Contact.jsx",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAawGAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T03:31:33.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "src\\components\\About.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\About.jsx",
+              "RelativeToolTip": "src\\components\\About.jsx",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBQAAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T03:28:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeaturedPromo.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\FeaturedPromo.jsx",
+              "RelativeDocumentMoniker": "src\\components\\FeaturedPromo.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\FeaturedPromo.jsx",
+              "RelativeToolTip": "src\\components\\FeaturedPromo.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T03:27:58.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Events.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Events.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Events.jsx",
+              "RelativeToolTip": "src\\components\\Events.jsx",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAawKIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T03:26:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Menu.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Menu.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Menu.jsx",
+              "RelativeToolTip": "src\\components\\Menu.jsx",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T02:48:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Hero.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Hero.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\components\\Hero.jsx",
+              "RelativeToolTip": "src\\components\\Hero.jsx",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAawJkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T02:48:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hero.png -  [English (United States)] - PNG [343x361, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\hero.png",
+              "RelativeDocumentMoniker": "src\\assets\\hero.png",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\hero.png -  [English (United States)] - PNG [343x361, 32 bit, PNG]",
+              "RelativeToolTip": "src\\assets\\hero.png -  [English (United States)] - PNG [343x361, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-25T02:46:35.65Z",
+              "EditorCaption": " -  [English (United States)] - PNG [343x361, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "src\\assets\\react.svg",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\assets\\react.svg",
+              "RelativeToolTip": "src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVDhPXZNPaBx1HMU/39/vN7/5s2nd1iaItLqxiFTUbqJnNXjwmO2lh4AYb4LUVvCe9OItkN7Ek6BXwXjxGNGLaCFbe4hYxKWpepBmJjszmZndmfl5WK3Bd/zy3uP7eDzh/9j98XWjZNAiq6qlpxzoRoZqIsNmws3yytLoEdc5J/8J97pKtxtO3A0BHCAzMboWzBS8SmEr2a6K9mbyzlICMDPY3esacbutavvITAxwVhkWrUVPhf3DEm8i2FLwj9WQtF4ZfbCUKAC/ZUNa15dWECeIg80LT3J7\u002BRJvLzzOtacWuLvyPGfEzL6ppX8KfwNAgq/3eiLut9aAU44W2Hr2PKvnurx5\u002Bx4P0immhu9efY4vfkn47KeH\u002BMeKMFfYihVlJ2zqepZTTYX1hXO8f36Bd\u002B/c54\u002B4xpYKWyiejizHRYtXCrYS/FIIchkoOzGXzVRhJoI3UVy7MM/do4IfDgr8XONnmmXb4dNhzFd3xvilIigUfiFEuVlVpqLvlQp7rJifWF46HfL97wXB2BClhiA1/Hq/5uNvDwlyTZArglwIc0WUqp6yhcbPNcHY4xWvA0CRQpR4BIlHlBrC1BCmmiDXhLkmzDRhpogyhQrGZhQlHlHi8fDBrNWzzvDvLYz/McgML54OicaaTqqZG2vCTIYqir2dMLZ0Yks8EtLCcWneJ4o9wvEsQnhk6FnLC48FdBJNJ9bMHWk6qRnq3vKHpZ956/bYYHNDXQmD10LMVLG/12ArzcsXfd672mXn8wwvEeYSTSfTmKlcEYA31v7aVpW\u002BrlpBWuGtqwFraz557shyx\u002BGfDZ9spWQHNVEuBCWYur310f4TNwRgMIi7Lje7qpE\u002BAM5xak64\u002BIzi4N6UOmkJJ46gcnhTh3ZuWFTZyvZoMXk0pkE/7vq\u002BvymNuq5waAembrHOYacOr23QtCiaW1WVbW6PFk\u002BM6QTW\u002B0VPl3rTNFzWru0bGrRqRso1O2i\u002B3Pr5zDcn\u002BX8DxwM8iOXXp7EAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-25T02:46:34.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "favicon.svg",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\public\\favicon.svg",
+              "RelativeDocumentMoniker": "public\\favicon.svg",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\public\\favicon.svg",
+              "RelativeToolTip": "public\\favicon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVDhPXZNPaBx1HMU/39/vN7/5s2nd1iaItLqxiFTUbqJnNXjwmO2lh4AYb4LUVvCe9OItkN7Ek6BXwXjxGNGLaCFbe4hYxKWpepBmJjszmZndmfl5WK3Bd/zy3uP7eDzh/9j98XWjZNAiq6qlpxzoRoZqIsNmws3yytLoEdc5J/8J97pKtxtO3A0BHCAzMboWzBS8SmEr2a6K9mbyzlICMDPY3esacbutavvITAxwVhkWrUVPhf3DEm8i2FLwj9WQtF4ZfbCUKAC/ZUNa15dWECeIg80LT3J7\u002BRJvLzzOtacWuLvyPGfEzL6ppX8KfwNAgq/3eiLut9aAU44W2Hr2PKvnurx5\u002Bx4P0immhu9efY4vfkn47KeH\u002BMeKMFfYihVlJ2zqepZTTYX1hXO8f36Bd\u002B/c54\u002B4xpYKWyiejizHRYtXCrYS/FIIchkoOzGXzVRhJoI3UVy7MM/do4IfDgr8XONnmmXb4dNhzFd3xvilIigUfiFEuVlVpqLvlQp7rJifWF46HfL97wXB2BClhiA1/Hq/5uNvDwlyTZArglwIc0WUqp6yhcbPNcHY4xWvA0CRQpR4BIlHlBrC1BCmmiDXhLkmzDRhpogyhQrGZhQlHlHi8fDBrNWzzvDvLYz/McgML54OicaaTqqZG2vCTIYqir2dMLZ0Yks8EtLCcWneJ4o9wvEsQnhk6FnLC48FdBJNJ9bMHWk6qRnq3vKHpZ956/bYYHNDXQmD10LMVLG/12ArzcsXfd672mXn8wwvEeYSTSfTmKlcEYA31v7aVpW\u002BrlpBWuGtqwFraz557shyx\u002BGfDZ9spWQHNVEuBCWYur310f4TNwRgMIi7Lje7qpE\u002BAM5xak64\u002BIzi4N6UOmkJJ46gcnhTh3ZuWFTZyvZoMXk0pkE/7vq\u002BvymNuq5waAembrHOYacOr23QtCiaW1WVbW6PFk\u002BM6QTW\u002B0VPl3rTNFzWru0bGrRqRso1O2i\u002B3Pr5zDcn\u002BX8DxwM8iOXXp7EAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-25T02:46:30.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-25T02:46:01.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-25T02:45:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T02:45:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-25T02:44:55.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-25T02:44:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-25T02:44:48.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T02:41:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-25T02:40:55.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T02:45:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T02:45:55.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\anony\\Downloads\\3ls-kinalas-website\\3ls-kinalas\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T02:46:00.615Z",
+              "EditorCaption": ""
             }
           ]
         }
